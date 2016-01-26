@@ -15,16 +15,18 @@ https://d396qusza40orc.cloudfront.net/getdata%2Fprojectfiles%2FUCI%20HAR%20Datas
 
 1. Cleaned data: "merged_data.txt"
 
- * subject: Number of the test subject (1-30)
+* subject: Number of the test subject (1-30)
 
- * activity: One of the following: (1) walking, (2) walking_upstairs, (3) walking_downstairs, (4) sitting, (5) standing, (6) laying. The number in brackets corresponds to the activity number in the original data set.
+* activity: One of the following: (1) walking, (2) walking_upstairs, (3) walking_downstairs, (4) sitting, (5) standing, (6) laying. The number in brackets corresponds to the activity number in the original data set.
 
- * The following 66 columns contain mean and standard deviation data from the different measurements. Further information is provided in "README.txt" in the downloaded archive.
+* The following 66 columns contain mean and standard deviation data from the different measurements. Further information is provided in "README.txt" in the downloaded archive.
 
 2. Calculated means of cleaned data: "data_means.txt"
 
 * subject: Number of the test subject (1-30). Six rows per subject (one per activity -> 180 rows)
+
 * activity: One of the following: (1) walking, (2) walking_upstairs, (3) walking_downstairs, (4) sitting, (5) standing, (6) laying. All six activity were recorded for each of the 30 subjects (->180 rows).
+
 * The following column contain means calculated for each subject and activity. 
 
 
