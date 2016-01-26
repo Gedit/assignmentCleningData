@@ -21,6 +21,8 @@ https://d396qusza40orc.cloudfront.net/getdata%2Fprojectfiles%2FUCI%20HAR%20Datas
 
 * The following 66 columns contain mean and standard deviation data from the different measurements. Further information is provided in "README.txt" in the downloaded archive.
 
+
+
 2. Calculated means of cleaned data: "data_means.txt"
 
 * subject: Number of the test subject (1-30). Six rows per subject (one per activity -> 180 rows)
